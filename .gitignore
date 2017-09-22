@@ -1,0 +1,4 @@
+# Python:
+*.py[cod]
+# Windows:
+__pycache__/
